@@ -20,11 +20,6 @@ Lab) Splunk Investigation 3 Solution<br />
 <h2>Program walk-through </h2>
 
 
-- <b>Splunk Investigation 2 Completion Certification </b>
-  - [Certification of completion](https://elearning.securityblue.team/public/lab-certificate/4306cabc-5f43-4bb5-a348-a6613a50eac4)
-
-
-
 
 Question 1 - OSINT can be extremely useful in almost every investigation. Perform a Google search for osk.exe - what is the full name of the Windows feature associated with osk.exe?
 
